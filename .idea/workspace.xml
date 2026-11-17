@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f32e8241-2fca-4680-8069-32687386afe6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/introduction.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.529967527641166E-7" />
+      <entry key="MS500" value="0.060480139916927154" />
+      <entry key="S2" value="2.4587993719192065" />
+      <entry key="S5" value="5.979365509417662" />
+      <entry key="S10" value="8.097976274043004" />
+      <entry key="S30" value="9.929294758158909" />
+      <entry key="S60" value="10.450550114585248" />
+      <entry key="M2" value="10.724625743737509" />
+      <entry key="M5" value="11.201267757931427" />
+      <entry key="M10" value="12.425096212285567" />
+      <entry key="M15" value="13.448294527638218" />
+      <entry key="M30" value="15.152644400900076" />
+      <entry key="H1" value="16.39430640520192" />
+      <entry key="H2" value="17.145578809981444" />
+      <entry key="H4" value="17.55904832945759" />
+      <entry key="D1" value="17.92452308920288" />
+      <entry key="W1" value="17.98916794322728" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.713471711009505E-7" />
+      <entry key="MS500" value="0.09951785922211519" />
+      <entry key="S2" value="2.897492492449622" />
+      <entry key="S5" value="6.696290270753563" />
+      <entry key="S10" value="8.944081582603625" />
+      <entry key="S30" value="10.87494236340789" />
+      <entry key="S60" value="11.422970756240598" />
+      <entry key="M2" value="11.71073284826276" />
+      <entry key="M5" value="12.195655069619246" />
+      <entry key="M10" value="13.422227915613588" />
+      <entry key="M15" value="14.44634825365238" />
+      <entry key="M30" value="16.151642980501606" />
+      <entry key="H1" value="17.393795408580893" />
+      <entry key="H2" value="18.14532020155235" />
+      <entry key="H4" value="18.5589181696138" />
+      <entry key="D1" value="18.9245012698615" />
+      <entry key="W1" value="18.989164822994045" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MERWPxQTiuDvpoETxtuNjXzUyS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/CCS/CognitiveModellingAssignments",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CCS\CognitiveModellingAssignments" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f32e8241-2fca-4680-8069-32687386afe6" name="Changes" comment="" />
+      <created>1794913772213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794913772213</updated>
+      <workItem from="1794913773227" duration="1547000" />
+      <workItem from="1794916897072" duration="94000" />
+      <workItem from="1794917029431" duration="286000" />
+      <workItem from="1794921150310" duration="520000" />
+      <workItem from="1794921860436" duration="713000" />
+      <workItem from="1794931468786" duration="318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
